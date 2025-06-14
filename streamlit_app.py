@@ -14,7 +14,7 @@ st.write(
 )
 
 
-# Load the data from a CSV. We're caching this so it doesn't reload every time the app
+# Loadｇ the data froddfddm a CSV. We're caching this so it doesn't reload every time the app
 # reruns (e.g. if the user interacts with the widgets).
 @st.cache_data
 def load_data():
